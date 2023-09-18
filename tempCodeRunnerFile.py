@@ -1,0 +1,1 @@
+multiple_leads, returning_customers, total_leads = parse_web_data_numpy("./data/mini_test_data.csv")
